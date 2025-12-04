@@ -2,7 +2,11 @@
 
 An interactive visualization exploring reality through seven dimensions, from physical space to the rules of existence itself.
 
-[**Live Demo**](https://piyxu.com/7d-universe-interactive.html) | [MIT License](#license)
+"Note: This README was generated with assistance from Claude (Anthropic AI)"
+
+README.MD creatwd by
+
+[**Live Demo**](https://piyxu.com/7d-universe-interactive-1.html) | [MIT License](#license)
 
 > **Note:** This README.md was created with Claude (Anthropic AI Assistant)
 
